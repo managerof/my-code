@@ -1,0 +1,10 @@
+x = [1, 2, 3, 4, 5]
+x.append(0)
+x.insert(1, 7)
+print(x.count(7))
+print(x.sort())
+x.reverse()
+y = x.pop(0)
+print(y)
+x.remove(2)
+print(x)

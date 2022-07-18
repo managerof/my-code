@@ -1,0 +1,5 @@
+y =tuple('str')
+x = (9, 8, 7)
+print(x[0])
+print(y)
+print(x)
